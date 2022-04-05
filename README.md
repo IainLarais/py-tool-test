@@ -1,4 +1,6 @@
 # py-tool-test
 
 ## Anleitung
-Ausführen mit `python main.py`
+
+1. Abhängigkeiten installieren `python -m pip install pyfiglet`
+2. Ausführen mit `python main.py`
